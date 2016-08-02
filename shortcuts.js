@@ -2,7 +2,7 @@
  * http://www.openjs.com/scripts/events/keyboard_shortcuts/
  * Version : 2.01.B
  * By Binny V A
- * License : BSD
+ * License : GPL 
  */
 shortcut = {
 	'all_shortcuts':{},//All the shortcuts are stored in this array
